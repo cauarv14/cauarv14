@@ -1,9 +1,9 @@
 ## ⭐ Bem-vindo(a) ao perfil de Cauã Stella
 
  <div>
-   <a href="https://github.com/cauarv14">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauarv14&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauarv14&layout=compact&langs_count=6&theme=gruvbox"/>
+   <a href="https://github.com/stelladesolaria">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stelladesolaria&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stelladesolaria&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
     
 <div style="display: inline_block"><br>
