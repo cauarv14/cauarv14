@@ -1,4 +1,4 @@
-## ⭐ Bem-vindo(a) ao perfil de Cauã Stella
+## Bem-vindo(a) ao perfil de Cauã Stella
 
  <div>
    <a href="https://github.com/stelladesolaria">
